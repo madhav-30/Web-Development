@@ -1,0 +1,29 @@
+/*                              This is CSS Introduction Note                                    
+
+        CSS -> Cascading Style Sheets                                    
+        CSS gives style to raw HTML                                      
+        CSS is used to 'Make Websites responsive'                        
+        CSS makes our website beautiful and Modern looking
+
+        Selector     Property     Value                                  
+           p      {   color    :  blue ;  }                              
+
+           There are 3 types to add CSS to the Markup                      
+           i) Inline CSS                                                
+          ii) Internal CSS                                              
+         iii) External CSS 
+
+        *Inline CSS is used directly by using style attribute             
+        *Internal CSS is used inside the head tags in <style>             
+        *External CSS is kept separately inside a .css sheet   
+        *Inline CSS takes more precedence then the internal CSS
+        *The last change in CSS takes priority
+        *To give priority to a change we use !important in it
+          e.g.,    <p style="color:red ; background color: gray !important;">
+  
+  
+  
+  
+  
+  
+   */
